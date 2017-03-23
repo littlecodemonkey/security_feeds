@@ -230,14 +230,6 @@
         <outline text="InfoSec Alerts - OSVDB" title="InfoSec Alerts - OSVDB">
             <outline type="rss" text="OSVDB" title="OSVDB" xmlUrl="http://blog.osvdb.org/feed/" htmlUrl="https://blog.osvdb.org"/>
         </outline>
-        <outline text="Local News" title="Local News">
-            <outline type="rss" text="Dom's Blog" title="Dom's Blog" xmlUrl="http://rockandrolldom.blogspot.com/feeds/posts/default" htmlUrl="http://rockandrolldom.blogspot.com/"/>
-            <outline type="rss" text="Spokesman.com: Eye On Boise posts" title="Spokesman.com: Eye On Boise posts" xmlUrl="http://www.spokesman.com/feeds/blogs/boise/" htmlUrl="http://www.spokesman.com/blogs/boise/"/>
-            <outline type="rss" text="KTVB Top Stories" title="KTVB Top Stories" xmlUrl="http://www.ktvb.com/newskiosk/rss/ktvblocalnews.xml" htmlUrl="http://www.ktvb.com/home"/>
-            <outline type="rss" text="Most popular events" title="Most popular events" xmlUrl="http://events.idahostatesman.com/search?new=n&amp;rss=1&amp;sort=1&amp;srad=70&amp;srss=10&amp;st=event&amp;svt=text&amp;swhat=&amp;swhen=&amp;swhere=" htmlUrl="http://events.idahostatesman.com/search"/>
-            <outline type="rss" text="Boise Guardian" title="Boise Guardian" xmlUrl="http://www.boiseguardian.com/atom.xml" htmlUrl="http://boiseguardian.com"/>
-            <outline type="rss" text="boise.reddit.com" title="boise.reddit.com" xmlUrl="http://www.reddit.com/r/boise/.rss" htmlUrl="http://www.reddit.com/r/Boise/"/>
-        </outline>
         <outline text="Security - CTF" title="Security - CTF">
             <outline type="rss" text="int3pids" title="int3pids" xmlUrl="http://int3pids.blogspot.com/feeds/posts/default" htmlUrl="http://int3pids.blogspot.com/"/>
             <outline type="rss" text="Dragon Sector" title="Dragon Sector" xmlUrl="http://blog.dragonsector.pl/feeds/posts/default" htmlUrl="http://blog.dragonsector.pl/"/>
